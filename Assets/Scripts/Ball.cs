@@ -5,12 +5,6 @@ public class Ball : MonoBehaviour
 {
 	// Holds information about the game state.
 	public GameState state;
-
-	// Use this for initialization
-	void Start ()
-	{
-		
-	}
 	
 	// Update is called once per frame
 	void Update ()
